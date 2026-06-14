@@ -2,41 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on maya&#39;s blog</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on maya&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>maya@viv.dog (Maya P)</managingEditor>
     <webMaster>maya@viv.dog (Maya P)</webMaster>
     <copyright>© 2026 Maya P</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Facts</title>
+      <link>http://localhost:1313/tags/facts/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <author>maya@viv.dog (Maya P)</author>
+      <guid>http://localhost:1313/tags/facts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Latex</title>
+      <link>http://localhost:1313/tags/latex/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <author>maya@viv.dog (Maya P)</author>
+      <guid>http://localhost:1313/tags/latex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Logic</title>
+      <link>http://localhost:1313/tags/logic/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <author>maya@viv.dog (Maya P)</author>
+      <guid>http://localhost:1313/tags/logic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reddit</title>
+      <link>http://localhost:1313/tags/reddit/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <author>maya@viv.dog (Maya P)</author>
+      <guid>http://localhost:1313/tags/reddit/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Introduction</title>
-      <link>//localhost:1313/tags/introduction/</link>
+      <link>http://localhost:1313/tags/introduction/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <author>maya@viv.dog (Maya P)</author>
-      <guid>//localhost:1313/tags/introduction/</guid>
+      <guid>http://localhost:1313/tags/introduction/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Liberals</title>
-      <link>//localhost:1313/tags/liberals/</link>
+      <link>http://localhost:1313/tags/liberals/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <author>maya@viv.dog (Maya P)</author>
-      <guid>//localhost:1313/tags/liberals/</guid>
+      <guid>http://localhost:1313/tags/liberals/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Poggers</title>
-      <link>//localhost:1313/tags/poggers/</link>
+      <link>http://localhost:1313/tags/poggers/</link>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <author>maya@viv.dog (Maya P)</author>
-      <guid>//localhost:1313/tags/poggers/</guid>
+      <guid>http://localhost:1313/tags/poggers/</guid>
       <description></description>
       
     </item>
